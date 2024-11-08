@@ -1,4 +1,5 @@
 # TESTOVOE
+Отчет по тестовому заданию представлен по ссылке в Google Docs: https://docs.google.com/document/d/1KE4e4UStDbEy1KA7tb35NmOWra_T0Kt5ZAx-4e4bAdQ/edit?tab=t.0
 1. Для базы данных мною использовался Open Server Panel (MySQL).
 2. Для просмотра базы DBeaver
 3. Для запуска кода необходимо в консоли использовать команду php book.php (при запущенном open server, код автоматически создаст базу и необходимую таблицу)
